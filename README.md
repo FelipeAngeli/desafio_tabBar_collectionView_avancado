@@ -1,4 +1,4 @@
-# desafio_tabBar_colectionView_avancado
+# desafio_tabBar_collectionView_avancado
  - Desafio feito utilizando #ViewCode de modo programado, usando os componentes TabBar e CollectionView.
  - Acessando de modo programático a câmera do dispositivo IOS e álbum de fotos.
  
